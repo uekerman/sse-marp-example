@@ -2,10 +2,41 @@
 marp: true
 title: Simulation Software Engineering
 description: Introduction to the SSE lecture
-theme: uncover
+theme: gaia
 paginate: true
 _paginate: false
 ---
+
+<style>
+section {
+  background: black;
+  color: white;
+  font-size: 26px;
+  padding: 40px;
+}
+
+h1 {
+  color: orange;
+  text-align: center 
+}
+
+h2 {
+  color: orange;
+  text-align: center 
+}
+
+strong {
+  font-weight: bold;
+  color: orange;
+}
+  
+code {
+  color: orange;
+  background: black;
+}
+
+
+</style>
 
 # Simulation Software Engineering
 
@@ -118,12 +149,6 @@ Two parallel branches:
 
 ## Time Table I
 
-<style>
-td {
-    font-size: 35px
-}
-</style>
-
 | Date | Type | Chapter | Topic | Lecturer |
 | ---- | ---- | ------- |------ | -------- |
 | 20.10. |Lecture | 0-1 | Course intro, intro to SSE, VC basics | Benjamin |
@@ -138,12 +163,6 @@ td {
 ---
 
 ## Time Table II
-
-<style>
-td {
-    font-size: 35px
-}
-</style>
 
 | Date | Type | Chapter | Topic | Lecturer |
 | ---- | ---- | ------- |------ | -------- |
@@ -161,12 +180,6 @@ td {
 ---
 
 ## Time Table III
-
-<style>
-td {
-    font-size: 35px
-}
-</style>
 
 | Date | Type | Chapter | Topic | Lecturer |
 | ---- | ---- | ------- |------ | -------- |
