@@ -4,5 +4,5 @@ module.exports = {
   allowLocalFiles: true,
   ogImage,
   themeSet: 'themes',
-  url: canonicalUrl,
+  url: canonicalUrl
 }
